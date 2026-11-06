@@ -1,0 +1,6 @@
+Dataset,Rows,Columns,StartRow,StartColumn,GoalRow,GoalColumn,Algorithm,Weight,Trial,Status,NodesExpanded,Steps,PathCost,OptimalCost,GapPercent,BoundCost,WithinBound,ElapsedMilliseconds
+Data\Examples\terrain-choice.grid,5,7,2,0,2,6,Dijkstra,,1,FOUND,29,6,6.82842712474619,6.82842712474619,0.0,6.82842712474619,True,0.2964
+Data\Examples\terrain-choice.grid,5,7,2,0,2,6,Dijkstra,,2,FOUND,29,6,6.82842712474619,6.82842712474619,0.0,6.82842712474619,True,0.3148
+Data\Examples\terrain-choice.grid,5,7,2,0,2,6,Dijkstra,,3,FOUND,29,6,6.82842712474619,6.82842712474619,0.0,6.82842712474619,True,0.3135
+Data\Examples\terrain-choice.grid,5,7,2,0,2,6,Dijkstra,,4,FOUND,29,6,6.82842712474619,6.82842712474619,0.0,6.82842712474619,True,0.3076
+Data\Examples\terrain-choice.grid,5,7,2,0,2,6,Dijkstra,,5,FOUND,29,6,6.82842712474619,6.82842712474619,0.0,6.82842712474619,True,0.3129
